@@ -7,7 +7,7 @@ Aplicación desarrollada con **React Native** usando **Expo**. Permite gestionar
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/tu-usuario/mi-comida-favorita.git
+git clone https://github.com/JoseVelascoM/mi-comida-favorita-diplomado
 cd mi_comida_favorita_app
 ```
 
@@ -94,3 +94,25 @@ mi_comida_favorita_app/
 ## ✨ Notas
 
 Asegúrate de tener Node.js, npm o yarn, y la app Expo Go instalada.
+
+## 📸 Capturas de pantalla
+
+#### Inicio de sesión
+<p float="left">
+  <img src="./assets/App1.jpg" width="250" />
+  <img src="./assets/App2.jpg" width="250" />
+  <img src="./assets/App3.jpg" width="250" />
+</p>
+
+#### Registro
+<p float="left">
+  <img src="./assets/App4.jpg" width="250" />
+  <img src="./assets/App5.jpg" width="250" />
+</p>
+
+
+#### Perfil
+<p float="left">
+  <img src="./assets/App6.jpg" width="250" />
+  <img src="./assets/App7.jpg" width="250" />
+</p>
